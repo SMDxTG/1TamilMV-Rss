@@ -5,3 +5,4 @@ cloudscraper
 pymongo
 requests
 python-dotenv
+motar
